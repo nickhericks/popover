@@ -126,11 +126,6 @@ h2 {
   color: #fff;
 }
 
-/**
- * # START EDITING HERE (placeholder)
- * ====================
- */
-
 /* Positioning the triggers */
 .trigger[data-placement="top"] {
   color: var(--blue);
